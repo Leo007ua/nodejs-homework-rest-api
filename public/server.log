@@ -33,3 +33,12 @@ POST /api/contacts 25-09-2023_23:39:54
 PUT /api/contacts/Quiz7u3Cz_3AZR_aqn3V4 25-09-2023_23:53:11
 DELETE /api/contacts/Quiz7u3Cz_3AZR_aqn3V4 26-09-2023_00:04:13
 DELETE /api/contacts/Quiz7u3Cz_3AZR_aqn3V 26-09-2023_00:04:21
+GET /api/contacts 26-09-2023_23:58:47
+GET /api/contacts/AeHIrLTr6JkxGE6SN-0Rw 27-09-2023_00:01:34
+POST /api/contacts/AeHIrLTr6JkxGE6SN-0Rw 27-09-2023_00:01:57
+POST /api/contacts/AeHIrLTr6JkxGE6SN-0Rw 27-09-2023_00:02:36
+POST /api/contacts 27-09-2023_00:03:00
+DELETE /api/contacts/AeHIrLTr6JkxGE6SN-0Rw 27-09-2023_00:03:34
+PUT /api/contacts/AeHIrLTr6JkxGE6SN-0Rw 27-09-2023_00:03:57
+PUT /api/contacts/drsAJ4SHPYqZeG-83QTVW 27-09-2023_00:05:07
+PUT /api/contacts/drsAJ4SHPYqZeG-83QTVW 27-09-2023_00:05:19
