@@ -42,3 +42,9 @@ DELETE /api/contacts/AeHIrLTr6JkxGE6SN-0Rw 27-09-2023_00:03:34
 PUT /api/contacts/AeHIrLTr6JkxGE6SN-0Rw 27-09-2023_00:03:57
 PUT /api/contacts/drsAJ4SHPYqZeG-83QTVW 27-09-2023_00:05:07
 PUT /api/contacts/drsAJ4SHPYqZeG-83QTVW 27-09-2023_00:05:19
+GET /api/contacts 02-10-2023_01:25:34
+POST /api/contacts 02-10-2023_01:52:32
+POST /api/contacts 02-10-2023_01:54:44
+POST /api/contacts 02-10-2023_01:55:16
+POST /api/contacts 02-10-2023_01:56:31
+POST /api/contacts 02-10-2023_01:57:02
