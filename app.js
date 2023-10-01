@@ -3,8 +3,12 @@ const moment = require('moment')
 const fs = require('fs/promises')
 const logger = require('morgan')
 const cors = require('cors')
+// const dotenv = require('dotenv')
+require('dotenv').config()
 
 const contactsRouter = require('./routes/api/contacts')
+
+// dotenv.config()
 
 const app = express()
 // ============ запис всіх запитів ===
