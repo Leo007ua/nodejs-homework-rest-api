@@ -22,4 +22,5 @@ const contactsSchema = Joi.object({
 const updateFavoriteSchema = Joi.object({
   favorite: Joi.boolean().required(),
 });
+
 module.exports = { contactsSchema, updateFavoriteSchema };
