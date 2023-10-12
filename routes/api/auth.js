@@ -21,9 +21,9 @@ router.get("/current", authenticate, ctrl.getCurrent);
 router.post("/logout", authenticate, ctrl.logout);
 
 // subscription
-router.patch("/subscription", validateBody(schemas.updateSubscriptionSchema), ctrl.updateSubscription)
+router.patch("/subscription", authenticate, validateBody(schemas.updateSubscriptionSchema), ctrl.updateSubscription)
 
 // change avatars
-router.patch("/avatars", upload.single("avatar"), ctrl.updateAvatar);
+router.patch("/avatars", authenticate, upload.single("avatar"), ctrl.updateAvatar);
 
 module.exports = router;

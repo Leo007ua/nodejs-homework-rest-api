@@ -244,3 +244,9 @@ PATCH /api/auth/subscription 12-10-2023_01:09:36
 PATCH /api/auth/subscription 12-10-2023_01:12:56
 PATCH /api/auth/subscription 12-10-2023_01:15:07
 PATCH /api/auth/subscription 12-10-2023_01:15:09
+PATCH /api/auth/avatars 12-10-2023_01:36:38
+POST /api/auth/register 12-10-2023_10:53:05
+POST /api/auth/login 12-10-2023_10:53:23
+PATCH /api/auth/avatars 12-10-2023_10:53:49
+PATCH /api/auth/subscription 12-10-2023_10:55:15
+PATCH /api/auth/avatars 12-10-2023_11:02:00
