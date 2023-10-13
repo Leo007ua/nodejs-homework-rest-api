@@ -250,3 +250,12 @@ POST /api/auth/login 12-10-2023_10:53:23
 PATCH /api/auth/avatars 12-10-2023_10:53:49
 PATCH /api/auth/subscription 12-10-2023_10:55:15
 PATCH /api/auth/avatars 12-10-2023_11:02:00
+POST /api/auth/register 13-10-2023_22:33:56
+POST /api/auth/register 13-10-2023_22:35:03
+POST /api/auth/register 13-10-2023_22:37:15
+GET /api/auth/verify/hQ_vzYE17ZES6AZs9jrqK 13-10-2023_22:38:05
+GET /api/auth/verify/hQ_vzYE17ZES6AZs9jrqK 13-10-2023_22:53:44
+GET /api/auth/verify/hQ_vzYE17ZES6AZs9jrqK 13-10-2023_22:54:46
+GET /api/auth/verify/2_vGLYJFWIrUwQE7AZZPH 13-10-2023_22:55:47
+GET /api/auth/verify/2_vGLYJFWIrUwQE7AZZPH 13-10-2023_22:56:14
+POST /api/auth/verify 13-10-2023_23:18:49
